@@ -1,0 +1,27 @@
+.footer {
+    width: 1250px;
+    border-top: 1px solid           rgba(144,144,144,.1); 
+  }
+  
+  .footer p {
+    font-size: 15px;
+    margin-left:463px;
+    padding-bottom:45px;
+    margin-top: 34px;
+    width:245px;
+  }
+  body {
+    color:  #909090;
+    margin:0; 
+    padding: 0;
+    margin-bottom:-15px;
+    font-family: 'Myriad Pro';
+    font-weight: 400;
+  }
+  
+  .container{
+              width: 1905px;
+              margin: 0 auto;
+              position: relative;
+          }
+  

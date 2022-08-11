@@ -1,0 +1,70 @@
+
+.icons {
+    margin-top:57px;
+  }
+  
+  .icons:after{
+              content: '';
+              display: inline;
+              clear: both;
+          }
+  
+  
+  .icon {
+    border-radius: 50%;
+    width: 186px;
+    height: 186px;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    margin-left:31px;
+  }
+  
+  .icon-box {
+    float: left;
+    width: 248px;
+  }
+  
+  .pencil {
+    margin-left: 143px;
+  }
+  
+  .screen {
+    margin-left: 134px;
+  }
+  
+  .basket {
+    margin-left: 93px;
+  }
+  
+  h6 {
+    color:  #5094f2;
+    font-size: 20.35px;
+    line-height: 44.42px;
+    text-align: center;
+    margin:0; 
+    margin-top: 11px;
+    margin-bottom: -5px;
+  }
+  
+  .icon-description {
+    font-size: 14.35px;
+    text-align: center;
+    margin:0;
+    height:31px;
+    margin-bottom:94px;
+  }
+  
+  .icon-pencil {
+    background-color:  #5094f2;
+    background-image: url(https://img-fotki.yandex.ru/get/6312/129821687.2/0_132b39_aebfd89e_orig);
+  }
+  
+  .icon-screen {
+    background-color:  #d94748;
+    background-image: url(https://img-fotki.yandex.ru/get/3803/129821687.2/0_132b3b_ecf789c_orig);
+  }
+  
+  .icon-basket {
+    background-color:  #ebbb11;
+    background-image: url(https://img-fotki.yandex.ru/get/5114/129821687.2/0_132b3a_ac3a62b3_orig);
+  }
